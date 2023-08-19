@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "./C.SKILL-ddr3/coolingbox-texture",
-		"3": "./C.SKILL-ddr3/pcb-texture"
+		"2": "./cskill-ddr3/coolingbox-texture",
+		"3": "./cskill-ddr3/pcb-texture"
 	},
 	"elements": [
 		{

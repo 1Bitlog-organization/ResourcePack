@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "./FaX-8240/main-texture",
-		"particle": "./FaX-8240/main-texture"
+		"0": "./fax-8240/main-texture",
+		"particle": "./fax-8240/main-texture"
 	},
 	"elements": [
 		{

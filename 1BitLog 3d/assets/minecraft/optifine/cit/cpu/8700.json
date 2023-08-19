@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./Blue Heart 8700/pcb-texture",
-		"1": "./Blue Heart 8700/coolingbox-texture",
-		"particle": "./Blue Heart 8700/pcb-texture"
+		"0": "./blue-8700/pcb-texture",
+		"1": "./blue-8700/coolingbox-texture",
+		"particle": "./blue-8700/pcb-texture"
 	},
 	"elements": [
 		{
