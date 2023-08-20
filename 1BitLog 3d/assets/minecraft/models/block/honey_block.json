@@ -2,18 +2,18 @@
 	"credit": "Made by SPYT",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "min_stoyka_textures/cputext",
-		"1": "min_stoyka_textures/blanktexture",
-		"2": "min_stoyka_textures/fan",
-		"3": "min_stoyka_textures/ramtexture",
-		"4": "min_stoyka_textures/gpupci",
-		"5": "min_stoyka_textures/gpuderzhalka",
-		"6": "min_stoyka_textures/gputexture",
-		"7": "min_stoyka_textures/motherboardtexture",
-		"8": "min_stoyka_textures/ssdtexture",
-		"9": "min_stoyka_textures/psutexture",
-		"10": "min_stoyka_textures/bordertexture",
-		"particle": "min_stoyka_textures/cputext"
+		"0": "./mining-stand/cputext",
+		"1": "./mining-stand/blanktexture",
+		"2": "./mining-stand/fan",
+		"3": "./mining-stand/ramtexture",
+		"4": "./mining-stand/gpupci",
+		"5": "./mining-stand/gpuderzhalka",
+		"6": "./mining-stand/gputexture",
+		"7": "./mining-stand/motherboardtexture",
+		"8": "./mining-stand/ssdtexture",
+		"9": "./mining-stand/psutexture",
+		"10": "./mining-stand/bordertexture",
+		"particle": "./mining-stand/cputext"
 	},
 	"elements": [
 		{

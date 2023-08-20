@@ -2,11 +2,11 @@
 	"credit": "Made by SPYT",
 	"texture_size": [8, 8],
 	"textures": {
-		"0": "coal_generator_textures/buttontexture",
-		"1": "coal_generator_textures/bordtexture",
-		"2": "coal_generator_textures/bordtexture2",
-		"3": "coal_generator_textures/texture",
-		"particle": "coal_generator_textures/buttontexture"
+		"0": "./coal-generator/buttontexture",
+		"1": "./coal-generator/bordtexture",
+		"2": "./coal-generator/bordtexture2",
+		"3": "./coal-generator/texture",
+		"particle": "./coal-generator/buttontexture"
 	},
 	"elements": [
 		{
