@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./trade-terminal/display-texture",
-		"1": "./trade-terminal/uni-border-texture",
-		"particle": "./trade-terminal/display-texture"
+		"0": "block/trade-terminal/display-texture",
+		"1": "block/trade-terminal/uni-border-texture",
+		"particle": "block/trade-terminal/display-texture"
 	},
 	"elements": [
 		{
