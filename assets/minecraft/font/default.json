@@ -1,0 +1,31 @@
+{
+	"providers": [
+		{
+			"type":"bitmap",
+			"file":"icons:menu/main_menu.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC00\uDB80\uDC01\uDB80\uDC02\uDB80\uDC03\uDB80\uDC04"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/options.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC08\uDB80\uDC09\uDB80\uDC0A\uDB80\uDC0B\uDB80\uDC0C\uDB80\uDC0D\uDB80\uDC0E\uDB80\uDC0F\uDB80\uDC10\uDB80\uDC11\uDB80\uDC12\uDB80\uDC13"
+				]
+		},
+		{
+			"type": "bitmap",
+			"file": "icons:splash/1bitlog.png",
+				"ascent": 8,
+				"height": 9,
+				"chars": [
+					"\u0195"
+			]
+		}
+	]
+}
