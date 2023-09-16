@@ -1,5 +1,2 @@
-# Resource-pack
-Resource-pack использует возможности optifine для отрисовки тексур из файлов в зависимости от их названия.
-> Тем самым можно наложить сколько угодно текстур на один item/block использую разные наименования.
-
-<img src="https://readme-jokes.vercel.app/api?theme=material-palenight" alt="Jokes Card" />
+# Resource 1BitLog v4.90 [[Скачать ]](https://github.com/IBit-mc-server/ResourcePack/releases/tag/Новейший-выпуск-v4.90) [Актуальная версия]
+![Кристнаблинзасунуламайнкрафтвстакан](https://github.com/IBit-mc-server/ResourcePack/assets/98075804/685306f0-e658-41b1-9cba-179281381c87)
