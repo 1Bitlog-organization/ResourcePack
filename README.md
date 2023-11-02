@@ -3,4 +3,5 @@
 ![Кристнаблинзасунуламайнкрафтвстакан](https://github.com/IBit-mc-server/ResourcePack/assets/98075804/481a98b7-c53b-4ebf-97bd-77444e2011e7)
 
 
- 3D by [@spytaspund ](https://github.com/spytaspund)
+ 3D: [@spytaspund](https://github.com/spytaspund)
+ Оформление и текст: [@dakzekin](https://github.com/dakzekin)
