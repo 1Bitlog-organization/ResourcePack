@@ -1,6 +1,7 @@
-#### spytaspund presents...
-# 1BitLog 3D
-1BitLog resource pack 4.9.1, mainly made by me!
+# [[Скачать]](https://github.com/IBit-mc-server/ResourcePack/releases/tag/Новейшая-версия-ресурспака) [Актуальная версия] v4.9.1 [Больше 3D!]
+
+![Кристнаблинзасунуламайнкрафтвстакан](https://github.com/IBit-mc-server/ResourcePack/assets/98075804/481a98b7-c53b-4ebf-97bd-77444e2011e7)
 
 
-![photo_2023-09-17_00-14-24](https://github.com/spytaspund/1BitLog-3D/assets/109822062/4c463514-aa31-4126-82b5-26a23614361e)
+ 3D: [@spytaspund](https://github.com/spytaspund)
+ Оформление и текст: [@dakzekin](https://github.com/dakzekin)
