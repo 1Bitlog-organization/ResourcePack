@@ -1,0 +1,649 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "100100199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/hardware/cpu"
+        }
+      },
+      {
+        "when": "100100299",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/hardware/gpu"
+        }
+      },
+      {
+        "when": "100100399",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/hardware/storage"
+        }
+      },
+      {
+        "when": "100100499",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/hardware/motherboard"
+        }
+      },
+      {
+        "when": "100100599",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/hardware/os"
+        }
+      },
+      {
+        "when": "100100699",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/hardware/power-supply"
+        }
+      },
+      {
+        "when": "100100799",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/hardware/ram"
+        }
+      },
+      {
+        "when": "100200199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/ok"
+        }
+      },
+      {
+        "when": "100200299",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/cancel"
+        }
+      },
+      {
+        "when": "100200399",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/info"
+        }
+      },
+      {
+        "when": "100200499",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/blank16"
+        }
+      },
+      {
+        "when": "100200599",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/terminals-bg"
+        }
+      },
+      {
+        "when": "100200699",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/arrow-left"
+        }
+      },
+      {
+        "when": "100200799",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/arrow-right"
+        }
+      },
+      {
+        "when": "100300199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/currency/btl"
+        }
+      },
+      {
+        "when": "100300299",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/currency/thr"
+        }
+      },
+      {
+        "when": "100300399",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/currency/spc"
+        }
+      },
+      {
+        "when": "100400199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/license/top"
+        }
+      },
+      {
+        "when": "100400299",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/license/bottom-1"
+        }
+      },
+      {
+        "when": "100400399",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/license/bottom-2"
+        }
+      },
+      {
+        "when": "100400499",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/license/bottom-3"
+        }
+      },
+      {
+        "when": "100400599",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/license/bottom-4"
+        }
+      },
+
+      {
+        "when": "90100199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/motherboard/900fx-ultra"
+        }
+      },
+      {
+        "when": "90100299",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/motherboard/huan-x80"
+        }
+      },
+      {
+        "when": "90100399",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/motherboard/b680-aryc"
+        }
+      },
+      {
+        "when": "90100499",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/motherboard/b700-pro"
+        }
+      },
+      {
+        "when": "90100599",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/motherboard/x730e-point"
+        }
+      },
+      {
+        "when": "90100699",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/motherboard/higs-z808"
+        }
+      },
+
+      {
+        "when": "90200199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/cpu/8240"
+        }
+      },
+      {
+        "when": "90200299",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/cpu/2460v10"
+        }
+      },
+      {
+        "when": "90200399",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/cpu/4800"
+        }
+      },
+      {
+        "when": "90200499",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/cpu/8300"
+        }
+      },
+      {
+        "when": "90200599",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/cpu/6840"
+        }
+      },
+      {
+        "when": "90200699",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/cpu/8700"
+        }
+      },
+
+      {
+        "when": "90300199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/ram/critical-ddr3"
+        }
+      },
+      {
+        "when": "90300299",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/ram/cskill-ddr3"
+        }
+      },
+      {
+        "when": "90300399",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/ram/caper-ddr4"
+        }
+      },
+      {
+        "when": "90300499",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/ram/voper-ddr5"
+        }
+      },
+
+      {
+        "when": "90400199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-8600"
+        }
+      },
+      {
+        "when": "90400299",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-120"
+        }
+      },
+      {
+        "when": "90400399",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-240"
+        }
+      },
+      {
+        "when": "90400499",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/cube-2000"
+        }
+      },
+      {
+        "when": "90400599",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-275"
+        }
+      },
+      {
+        "when": "90400699",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/arx-550"
+        }
+      },
+      {
+        "when": "90400799",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/miscaris-xs"
+        }
+      },
+      {
+        "when": "90400899",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-570"
+        }
+      },
+      {
+        "when": "90400999",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/arx-560"
+        }
+      },
+      {
+        "when": "90401099",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-1630"
+        }
+      },
+      {
+        "when": "90401199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-1050"
+        }
+      },
+      {
+        "when": "90401299",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-680"
+        }
+      },
+      {
+        "when": "90401399",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/4k-7970"
+        }
+      },
+      {
+        "when": "90401499",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-1650"
+        }
+      },
+      {
+        "when": "90401599",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-monolith"
+        }
+      },
+      {
+        "when": "90401699",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/arx-5500"
+        }
+      },
+      {
+        "when": "90401799",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/arx-580"
+        }
+      },
+      {
+        "when": "90401899",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-1060-6gb"
+        }
+      },
+      {
+        "when": "90401999",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/arx-590"
+        }
+      },
+      {
+        "when": "90402099",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/s8-furs-xs"
+        }
+      },
+      {
+        "when": "90402199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-3050"
+        }
+      },
+      {
+        "when": "90402299",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/arx-6600"
+        }
+      },
+      {
+        "when": "90402399",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-1660-max"
+        }
+      },
+      {
+        "when": "90402499",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/arch-b750"
+        }
+      },
+      {
+        "when": "90402599",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-2060"
+        }
+      },
+      {
+        "when": "90402699",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-1070-max"
+        }
+      },
+      {
+        "when": "90402799",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/red-vx"
+        }
+      },
+      {
+        "when": "90402899",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-2070-max"
+        }
+      },
+      {
+        "when": "90402999",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-3060-max"
+        }
+      },
+      {
+        "when": "90403099",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/arx-6800-xl"
+        }
+      },
+      {
+        "when": "90403199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-3070-max"
+        }
+      },
+      {
+        "when": "90403299",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/arx-6950-xl"
+        }
+      },
+      {
+        "when": "90403399",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-cube-a6900"
+        }
+      },
+      {
+        "when": "90403499",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-3090"
+        }
+      },
+      {
+        "when": "90403599",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-3090-max"
+        }
+      },
+      {
+        "when": "90403699",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gpu/green-4090"
+        }
+      },
+
+      {
+        "when": "90500199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/storage/hdd"
+        }
+      },
+      {
+        "when": "90500299",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/storage/ssd"
+        }
+      },
+      {
+        "when": "90500399",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/storage/hdd"
+        }
+      },
+      {
+        "when": "90500499",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/storage/ssd"
+        }
+      },
+      {
+        "when": "90500599",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/storage/hdd"
+        }
+      },
+      {
+        "when": "90500699",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/storage/ssd"
+        }
+      },
+      {
+        "when": "90500799",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/storage/hdd"
+        }
+      },
+      {
+        "when": "90500899",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/storage/ssd"
+        }
+      },
+      {
+        "when": "90500999",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/storage/nvme"
+        }
+      },
+      {
+        "when": "90501099",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/storage/nvme"
+        }
+      },
+      {
+        "when": "90501199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/storage/nvme"
+        }
+      },
+
+      {
+        "when": "90600199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/power-supply/sas-400"
+        }
+      },
+      {
+        "when": "90600299",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/power-supply/hardcold-750"
+        }
+      },
+      {
+        "when": "90600399",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/power-supply/h-1000"
+        }
+      },
+      {
+        "when": "90600499",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/power-supply/fsr-1500"
+        }
+      },
+
+      {
+        "when": "90700199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/phone"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    }
+  }
+}
